@@ -1,7 +1,7 @@
 # ReadMeGenerator
 
   ## Description
-  This project will create a README file from prompts given in a a NodeJS enviorment.
+  This project is used to create a README file from prompts given in a NodeJS enviornment.
 
   ## Table of Contents
   * [Description](#description)
@@ -13,13 +13,13 @@
   * [Questions](#questions)
   
   ## Description
-  This project will create a README file from prompts given in a a NodeJS enviorment.
+  This project is used to create a README file from prompts given in a NodeJS enviornment.
 
   ## Installation
-  To install this project you will need to download and add the utils folder and the index.js file. Then use NPM to init and install inquirer v 8.2.4 
+  To install project add the index.js file and utils folder to your repo, then use NPM to init and install inquirer v 8.2.4
 
   ## Usage
-  This project is used to create a professional README file.
+  This project is used to create a professional README file for your repository.
 
   ## License
   MIT
@@ -29,11 +29,12 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Contributing
-  To contribute to this project make a pull request in the repository on github.
+  To contribute to this project please create a pull request in github.
 
   ## Tests
-  To test this project please run index.js in a NodeJS enviornment.
+  To test project run index.js in a NodeJS enviornment.
 
   ## Questions
-  Please contact me on github @Luis6400
+  Email: secretangel2121@gmail.com
+  GitHub: https://github.com/Luis6400
 
